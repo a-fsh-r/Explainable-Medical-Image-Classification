@@ -7,6 +7,7 @@ This repository contains explainable AI projects for medical image classificatio
 ## Projects Overview
 
 ### 1️⃣ Explainable Brain Tumor Classification (MRI) 🧠
+**File:** `Explainable Brain Tumor Classification.ipynb`  
 **Objective:** Detect and classify brain tumors from MRI scans with interpretable predictions.
 
 **Key Features:**
@@ -23,6 +24,7 @@ This repository contains explainable AI projects for medical image classificatio
 ---
 
 ### 2️⃣ Explainable AI for Cancer Detection in Histopathology 🔬
+**File:** `Explainable Brain Tumor Classification.ipynb`  
 **Objective:** Apply Grad-CAM to a ResNet-50 model for multi-class classification of histopathology images (cancerous vs. non-cancerous) to enhance interpretability.
 
 **Key Features:**
@@ -33,6 +35,7 @@ This repository contains explainable AI projects for medical image classificatio
 ---
 
 ### 3️⃣ Breast Cancer Histopathological Image Classification (ResNet50) 🩺
+**File:** `Explainable Brain Tumor Classification.ipynb`  
 **Objective:** Classify breast cancer histopathology images into Normal and Tumor classes with a robust deep learning pipeline.
 
 **Pipeline Highlights:**
@@ -48,6 +51,7 @@ This repository contains explainable AI projects for medical image classificatio
 ---
 
 ### 4️⃣ Cancer Detection using Attention-Based Network 🩺🔬
+**File:** `Explainable Brain Tumor Classification.ipynb`  
 **Objective:** Enhance cancer detection in histopathology images using attention-based deep neural networks to improve accuracy and interpretability.
 
 **Key Features:**
