@@ -1,6 +1,6 @@
 # Explainable Medical Image Classification
 
-This repository contains explainable AI projects for medical image classification, covering brain tumor MRI scans and histopathology images for cancer detection. The goal across all projects is to achieve high classification accuracy while making the model’s decisions interpretable using modern XAI methods and attention.
+This repository contains explainable AI projects for medical image classification, covering brain tumor MRI scans and histopathology images for cancer detection. The goal across all projects is to achieve high classification accuracy while making the model’s decisions interpretable using modern **XAI methods** and **attention mechanisms**.
 
 ---
 
