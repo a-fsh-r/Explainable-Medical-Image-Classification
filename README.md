@@ -15,7 +15,6 @@ This repository contains explainable AI projects for medical image classificatio
   - Grad-CAM 🌟
   - Grad-CAM++ ⚡
   - Score-CAM 🎯
-- Visual results stored in the `imgs` folder.
 
 **Highlights:**
 - Clearly shows which regions influence model predictions.
