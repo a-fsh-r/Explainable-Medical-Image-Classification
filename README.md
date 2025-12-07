@@ -1,1 +1,1 @@
-# XAI-in-Medical-Image-Analysis
+# Explainable Medical Image Classification
